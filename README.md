@@ -9,6 +9,5 @@ Trying out Marp presentation tool
 > some code
 ```
 
+---
 ## Another point
-
-
