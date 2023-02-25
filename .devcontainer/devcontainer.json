@@ -4,6 +4,10 @@
   },
   "customizations": {
     "vscode": {
+      "settings": {
+        "editor.minimap.enabled": false
+
+      },
       "extensions": [
         "marp-team.marp-vscode"
       ]
