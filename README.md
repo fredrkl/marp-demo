@@ -16,3 +16,5 @@ Slide notes go here
 
 - Added some notes on the first slide
 - Another bullet point
+
+<!-- HTML comment will recognize as presenter notes. -->
