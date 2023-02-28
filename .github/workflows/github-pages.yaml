@@ -23,6 +23,8 @@ jobs:
       uses: KoharaKazuya/marp-cli-action@v2
       with:
         generate-pdf: true
+        generate-html: true
+        generate-pptx: true
 
 
     - name: Deploy to GitHub Pages
