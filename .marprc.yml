@@ -1,0 +1,5 @@
+author: Fredrik Klingenberg
+description: Demo Project showing how to use Marp
+inputDir: ./presentation
+keywords: demo,presentation,marp
+notes: true
