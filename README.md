@@ -1,16 +1,3 @@
-# marp-demo
-Trying out Marp presentation tool
+# Marp Demo
 
-```bash
-> some code
-```
-<!---
-Slide notes go here
--->
----
-## Another point
-
-- Added some notes on the first slide
-- Another bullet point
-
-<!-- HTML comment will recognize as presenter notes. -->
+Trying out Marp presentation tool. This repo shows how to use the [https://marp.app/](https://marp.app/) tool. Please take a look in the presentation folder for the presentation itself.
